@@ -1,0 +1,64 @@
+
+body{
+    background-color: #ffffff;
+
+}
+header{
+    background: white;
+
+}
+.container{
+    
+    width: 600px;
+    margin: 0 auto;
+
+}
+.post{
+    border: 1px;
+    background-color: white;
+   margin-top: 40px;
+   box-shadow: 1px 3px 7px rgba(50,50,50, 1);
+}
+.htmlim{
+    width: 25%;
+}
+.puntos{
+    width: 30%;
+}
+
+.post-header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.botom{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.botones{
+    width: 23%;
+}
+.boton{
+    width: 14%;
+}
+
+.post span{
+    padding: 1px 1px;
+    margin: 0;
+
+}
+
+span{
+    width: 10%;
+
+}
+img{
+   width: 100%;
+}
+.post-footer{
+    margin: 4px;
+    padding: 2px;
+}
